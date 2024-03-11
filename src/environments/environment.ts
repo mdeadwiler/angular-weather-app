@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  openWeatherApiKey: '{Your OpenWeather API key}',
+  openWeatherApiKey: '{AIzaSyBaSpgJqBTnBtlqc3dpR2DIl1zoHWJITbo}',
   firebase: {
     apiKey: "YOUR_API_KEY",
     authDomain: "YOUR_AUTH_DOMAIN",
